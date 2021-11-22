@@ -1,4 +1,4 @@
-let tweets = require('../../webdev/src/reducers/data/tweets.json');
+let tweets = require('../data/tweets.json');
 
 module.exports = (app) => {
   const fetchAllTweets = (req, res) => {

@@ -1,0 +1,12 @@
+[
+    { "avatarIcon": "/a5/twitter/images/java.jpeg",
+      "userName": "Java", "handle": "Java"},
+    { "avatarIcon": "/a5/twitter/images/relativity.jpeg",
+      "userName": "Relativity Space", "handle": "relativityspace"},
+    { "avatarIcon": "/a5/twitter/images/virgin.png",
+      "userName": "Virgin Galactic", "handle": "virgingalactic"},
+    { "avatarIcon": "/a5/twitter/images/nasa.jpeg",
+      "userName": "NASA", "handle": "NASA" },
+    { "avatarIcon": "/a5/twitter/images/tesla.jpeg",
+      "userName": "Tesla", "handle": "Tesla"}
+]
